@@ -13,6 +13,18 @@ I also work part-time as a **Technical Artist at [SentNet](https://sentnet.top/)
 - **Computer Graphics** — PBR, shading, rendering, and game engines
 - **Generative AI stuff** — video, motion, 3D assets, and worlds
 
+## 🛠️ Skills & Toolsets
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,cpp,cs,unreal,unity,blender,git,docker,vim&theme=dark&perline=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pytorch,cpp,cs,unreal,unity,blender,git,docker,vim&theme=light&perline=10">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,cs,unreal,unity,blender,git,docker,vim&theme=light&perline=10" alt="My Skills">
+  </picture>
+</div>
+
+<p align="center"><b>Houdini · CUDA · Vulkan</b></p>
+
 ## 🔗 Find me elsewhere
 
 🌐 Blog & tech sharing: [Homepage](https://gelercat.com)

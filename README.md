@@ -17,13 +17,13 @@ I also work part-time as a **Technical Artist at [SentNet](https://sentnet.top/)
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,cpp,cs,unreal,unity,blender,git,docker,vim&theme=dark&perline=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pytorch,cpp,cs,unreal,unity,blender,git,docker,vim&theme=light&perline=10">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,cs,unreal,unity,blender,git,docker,vim&theme=light&perline=10" alt="My Skills">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Ccpp%2Ccs%2Cunreal%2Cunity%2Cblender%2Cgit%2Cdocker%2Cvim%2Cps&theme=dark&perline=11">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Ccpp%2Ccs%2Cunreal%2Cunity%2Cblender%2Cgit%2Cdocker%2Cvim%2Cps&theme=light&perline=11">
+    <img src="https://skillicons.dev/icons?i=py%2Cpytorch%2Ccpp%2Ccs%2Cunreal%2Cunity%2Cblender%2Cgit%2Cdocker%2Cvim%2Cps&theme=light&perline=11" alt="Python, PyTorch, C++, C#, Unreal Engine, Unity, Blender, Git, Docker, Vim, Photoshop">
   </picture>
 </div>
 
-<p align="center"><b>Houdini · CUDA · Vulkan</b></p>
+<p align="center"><b>Houdini · CUDA · Vulkan · Procreate · Clip Studio Paint</b></p>
 
 ## 🔗 Find me elsewhere
 

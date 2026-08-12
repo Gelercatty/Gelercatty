@@ -2,7 +2,7 @@
 
 You can also call me **Geler (格尔)**.
 
-I'm a **CS graduate student at Beihang University**, currently interning with the **Echo Team at JD Explore Academy**.
+I'm a **CS graduate student at Beihang University**, currently interning with the **[Echo Team](https://echo-team-joy-future-academy-jd.github.io/Echo-LongVideo-Page/) at JD Explore Academy**.
 
 Before diving into generative AI, I spent quite a bit of time with **skeletal animation, motion capture, real-time rendering, and game development**. I still love graphics and games, and I'm always curious about new ways to make virtual worlds more **alive, interactive, and imaginative**.
 

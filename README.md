@@ -26,9 +26,13 @@ I also work part-time as a **Technical Artist at [SentNet](https://sentnet.top/)
   &nbsp;&nbsp;
   <img width="48" height="48" src="https://cdn.simpleicons.org/vulkan/AC162C" alt="Vulkan" title="Vulkan" />
   &nbsp;&nbsp;
-  <img width="48" height="48" src="https://raw.githubusercontent.com/Gelercatty/Gelercatty/main/assets/procreate-custom.svg" alt="Procreate" title="Procreate" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/procreate/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/procreate/111111">
+    <img width="48" height="48" src="https://cdn.simpleicons.org/procreate/111111" alt="Procreate" title="Procreate" />
+  </picture>
   &nbsp;&nbsp;
-  <img width="48" height="48" src="https://raw.githubusercontent.com/Gelercatty/Gelercatty/main/assets/fender-studio-pro-custom.svg" alt="Fender Studio Pro" title="Fender Studio Pro" />
+  <img width="48" height="48" src="https://raw.githubusercontent.com/Gelercatty/Gelercatty/main/assets/fender-studio-pro-custom.svg?v=20260817" alt="Fender Studio Pro" title="Fender Studio Pro" />
 </div>
 
 ## 🔗 Find me elsewhere

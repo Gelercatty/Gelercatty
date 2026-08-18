@@ -31,7 +31,7 @@ I also work part-time as a **Technical Artist at [SentNet](https://sentnet.top/)
   </a>
   &nbsp;&nbsp;
   <a href="https://www.fender.com/products/fender-studio-pro">
-    <img width="48" height="48" src="https://raw.githubusercontent.com/Gelercatty/Gelercatty/main/assets/fender-studio-pro.png?v=20260818b" alt="Fender Studio Pro" title="Fender Studio Pro" />
+    <img width="48" height="48" src="https://raw.githubusercontent.com/Gelercatty/Gelercatty/main/assets/fender-studio-pro-official.svg?v=20260818c" alt="Fender Studio Pro" title="Fender Studio Pro" />
   </a>
 </div>
 

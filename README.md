@@ -26,13 +26,13 @@ I also work part-time as a **Technical Artist at [SentNet](https://sentnet.top/)
   &nbsp;&nbsp;
   <img width="48" height="48" src="https://cdn.simpleicons.org/vulkan/AC162C" alt="Vulkan" title="Vulkan" />
   &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/procreate/FFFFFF">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/procreate/111111">
-    <img width="48" height="48" src="https://cdn.simpleicons.org/procreate/111111" alt="Procreate" title="Procreate" />
-  </picture>
+  <a href="https://procreate.com/cn/">
+    <img width="48" height="48" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/90/b3/6090b35d-82a7-c44c-3379-299cf26b6759/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/320x0w.webp" alt="Procreate" title="Procreate" />
+  </a>
   &nbsp;&nbsp;
-  <img width="48" height="48" src="https://raw.githubusercontent.com/Gelercatty/Gelercatty/main/assets/fender-studio-pro-custom.svg?v=20260817" alt="Fender Studio Pro" title="Fender Studio Pro" />
+  <a href="https://www.fender.com/products/fender-studio-pro">
+    <img width="48" height="48" src="https://raw.githubusercontent.com/Gelercatty/Gelercatty/main/assets/fender-studio-pro.png?v=20260818" alt="Fender Studio Pro" title="Fender Studio Pro" />
+  </a>
 </div>
 
 ## 🔗 Find me elsewhere
